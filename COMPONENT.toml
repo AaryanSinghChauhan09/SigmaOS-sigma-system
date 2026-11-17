@@ -3,7 +3,7 @@ name = "SigmaOS-sigma-system"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "sigma-system component"
+description = "GitHub repository has no published branch; component scope remains unclassified."
 upstream = []
 
 [contract]
